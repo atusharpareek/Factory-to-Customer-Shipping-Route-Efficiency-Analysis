@@ -30,20 +30,20 @@ Order ID → shipment tracking
 Removed invalid records
 Handled missing values
 Converted date columns
-2️⃣ Feature Engineering
+//2️⃣ Feature Engineering
 Calculated Shipping Lead Time
 Mapped products to factories
 Created Route (Factory → State)
-3️⃣ Data Aggregation
+//3️⃣ Data Aggregation
 Route-level performance
 State-level performance
 Computed KPIs:
 Average Lead Time
 Variability
 Volume
-4️⃣ Delay Identification
+//4️⃣ Delay Identification
 Defined delay using 75th percentile threshold
-5️⃣ Visualization & Dashboard
+//5️⃣ Visualization & Dashboard
 Built interactive dashboard using Streamlit
 
 📈 Key Insights
