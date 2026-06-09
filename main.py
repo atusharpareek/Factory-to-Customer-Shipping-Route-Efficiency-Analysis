@@ -11,7 +11,7 @@ sns.set_style("whitegrid")
 # ================================
 # STEP 2: Data Loading
 # ================================
-df = pd.read_csv("C:/Users/TUSHAR PAREEK/Downloads/Nassau Candy Distributor.csv")
+df = pd.read_csv("Nassau Candy Distributor (1).csv")
 
 # print(df.head())
 
