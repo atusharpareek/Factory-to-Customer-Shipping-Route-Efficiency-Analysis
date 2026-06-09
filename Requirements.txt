@@ -1,7 +1,7 @@
-streamlit 
-pandas 
-plotly.express
-pandas 
-numpy 
-matplotlib.pyplot 
-seaborn 
+streamlit
+pandas
+numpy
+plotly
+matplotlib
+seaborn
+openpyxl
