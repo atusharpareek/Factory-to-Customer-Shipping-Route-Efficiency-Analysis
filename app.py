@@ -13,7 +13,7 @@ st.title("📦 Shipping Route Efficiency Dashboard")
 @st.cache_data
 def load_data():
 
-    df = pd.read_csv("C:/Users/TUSHAR PAREEK/Downloads/Nassau Candy Distributor.csv")
+    df = pd.read_csv("Nassau Candy Distributor (1).csv")
 
     df['Order Date'] = pd.to_datetime(df['Order Date'], dayfirst=True)
     df['Ship Date'] = pd.to_datetime(df['Ship Date'], dayfirst=True)
