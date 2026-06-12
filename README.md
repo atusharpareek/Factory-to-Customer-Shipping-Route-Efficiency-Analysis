@@ -9,6 +9,7 @@ This project analyzes logistics data to evaluate the efficiency of factory-to-cu
 An interactive dashboard built using Streamlit enables real-time exploration of shipping performance across routes, regions, and shipping methods.
 
 🎯 Objectives
+
 Analyze shipping lead time across routes
 Identify efficient and inefficient delivery routes
 Detect geographic bottlenecks
